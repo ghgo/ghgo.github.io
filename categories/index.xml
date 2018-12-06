@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 高雄和平浸信會</title>
+    <link>https://ghgo.github.io/categories/</link>
+    <description>Recent content in Categories on 高雄和平浸信會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://ghgo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>回應詩歌</title>
+      <link>https://ghgo.github.io/categories/%E5%9B%9E%E6%87%89%E8%A9%A9%E6%AD%8C/</link>
+      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://ghgo.github.io/categories/%E5%9B%9E%E6%87%89%E8%A9%A9%E6%AD%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>經文詩歌</title>
+      <link>https://ghgo.github.io/categories/%E7%B6%93%E6%96%87%E8%A9%A9%E6%AD%8C/</link>
+      <pubDate>Sat, 01 Dec 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://ghgo.github.io/categories/%E7%B6%93%E6%96%87%E8%A9%A9%E6%AD%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>詩班獻詩</title>
+      <link>https://ghgo.github.io/categories/%E8%A9%A9%E7%8F%AD%E7%8D%BB%E8%A9%A9/</link>
+      <pubDate>Sun, 02 Dec 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://ghgo.github.io/categories/%E8%A9%A9%E7%8F%AD%E7%8D%BB%E8%A9%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>證道</title>
+      <link>https://ghgo.github.io/categories/%E8%AD%89%E9%81%93/</link>
+      <pubDate>Sun, 02 Dec 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://ghgo.github.io/categories/%E8%AD%89%E9%81%93/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
