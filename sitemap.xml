@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/post/bringgoodnews/b20181223/</loc>
+    <lastmod>2018-12-23T17:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/post/sermon/s20181223/</loc>
     <lastmod>2018-12-23T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -556,6 +563,13 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/post/hymn/h201201/</loc>
+    <lastmod>2012-01-01T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -563,7 +577,7 @@
   
   <url>
     <loc>https://ghgo.github.io/post/</loc>
-    <lastmod>2018-12-23T14:21:20+08:00</lastmod>
+    <lastmod>2018-12-23T17:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -633,6 +647,20 @@
   <url>
     <loc>https://ghgo.github.io/categories/%E5%9B%9E%E6%87%89%E8%A9%A9%E6%AD%8C/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/tags/%E5%A0%B1%E4%BD%B3%E9%9F%B3/</loc>
+    <lastmod>2018-12-23T17:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/categories/%E5%A0%B1%E4%BD%B3%E9%9F%B3/</loc>
+    <lastmod>2018-12-23T17:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
