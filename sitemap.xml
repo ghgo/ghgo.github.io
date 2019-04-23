@@ -248,8 +248,43 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/post/sermon/s20181028/</loc>
+    <lastmod>2018-10-28T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20181021/</loc>
+    <lastmod>2018-10-21T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20181014/</loc>
+    <lastmod>2018-10-14T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20181007/</loc>
+    <lastmod>2018-10-07T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/post/hymn/h201810/</loc>
     <lastmod>2018-10-01T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180930/</loc>
+    <lastmod>2018-09-30T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -764,6 +799,13 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/tags/%E5%82%B3%E9%81%93%E6%9B%B8/</loc>
+    <lastmod>2018-10-28T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/tags/%E5%8A%A0%E6%8B%89%E5%A4%AA%E6%9B%B8/</loc>
     <lastmod>2018-11-25T13:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -969,6 +1011,13 @@
   <url>
     <loc>https://ghgo.github.io/tags/%E9%99%B3%E7%B4%84%E4%BC%AF/</loc>
     <lastmod>2019-04-14T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/tags/%E9%A6%AC%E5%8F%AF%E7%A6%8F%E9%9F%B3/</loc>
+    <lastmod>2018-10-21T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
