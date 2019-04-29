@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/post/sermon/s20190428/</loc>
+    <lastmod>2019-04-28T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/post/sermon/s20190421/</loc>
     <lastmod>2019-04-21T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -444,8 +451,57 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180415/</loc>
+    <lastmod>2018-04-15T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180408/</loc>
+    <lastmod>2018-04-08T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180401/</loc>
+    <lastmod>2018-04-01T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/post/hymn/h201804/</loc>
     <lastmod>2018-04-01T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180325/</loc>
+    <lastmod>2018-03-25T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180318/</loc>
+    <lastmod>2018-03-18T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180311/</loc>
+    <lastmod>2018-03-11T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180304/</loc>
+    <lastmod>2018-03-04T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -458,8 +514,71 @@
   </url>
   
   <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180225/</loc>
+    <lastmod>2018-02-25T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180218/</loc>
+    <lastmod>2018-02-18T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180216/</loc>
+    <lastmod>2018-02-16T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180211/</loc>
+    <lastmod>2018-02-11T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180204/</loc>
+    <lastmod>2018-02-04T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ghgo.github.io/post/hymn/h201802/</loc>
     <lastmod>2018-02-01T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180121/</loc>
+    <lastmod>2018-01-28T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180128/</loc>
+    <lastmod>2018-01-28T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180114/</loc>
+    <lastmod>2018-01-14T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/post/sermon/s20180107/</loc>
+    <lastmod>2018-01-07T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -885,7 +1004,7 @@
   
   <url>
     <loc>https://ghgo.github.io/post/</loc>
-    <lastmod>2019-04-21T14:21:20+08:00</lastmod>
+    <lastmod>2019-04-28T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -912,7 +1031,7 @@
   
   <url>
     <loc>https://ghgo.github.io/tags/%E4%BB%A5%E8%B3%BD%E4%BA%9E%E6%9B%B8/</loc>
-    <lastmod>2019-04-14T14:21:20+08:00</lastmod>
+    <lastmod>2019-04-28T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1129,7 +1248,7 @@
   
   <url>
     <loc>https://ghgo.github.io/tags/%E8%94%A1%E4%BB%81%E5%82%91/</loc>
-    <lastmod>2019-04-21T14:21:20+08:00</lastmod>
+    <lastmod>2019-04-28T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1150,14 +1269,14 @@
   
   <url>
     <loc>https://ghgo.github.io/tags/%E8%AD%89%E9%81%93/</loc>
-    <lastmod>2019-04-21T14:21:20+08:00</lastmod>
+    <lastmod>2019-04-28T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ghgo.github.io/categories/%E8%AD%89%E9%81%93/</loc>
-    <lastmod>2019-04-21T14:21:20+08:00</lastmod>
+    <lastmod>2019-04-28T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
