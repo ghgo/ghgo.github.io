@@ -17,14 +17,14 @@
   </url>
   
   <url>
-    <loc>https://ghgo.github.io/post/hymn/h201909/</loc>
-    <lastmod>2019-08-05T14:21:20+08:00</lastmod>
+    <loc>https://ghgo.github.io/post/sermon/s20190804/</loc>
+    <lastmod>2019-08-11T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ghgo.github.io/post/sermon/s20190804/</loc>
+    <loc>https://ghgo.github.io/post/sermon/s20190811/</loc>
     <lastmod>2019-08-04T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1123,7 +1123,7 @@
   
   <url>
     <loc>https://ghgo.github.io/post/</loc>
-    <lastmod>2019-08-05T14:21:20+08:00</lastmod>
+    <lastmod>2019-08-11T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1331,15 +1331,15 @@
   </url>
   
   <url>
-    <loc>https://ghgo.github.io/tags/%E7%B6%93%E6%96%87%E8%A9%A9%E6%AD%8C/</loc>
-    <lastmod>2019-08-05T14:21:20+08:00</lastmod>
+    <loc>https://ghgo.github.io/categories/%E7%B6%93%E6%96%87%E8%A9%A9%E6%AD%8C/</loc>
+    <lastmod>2019-08-01T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghgo.github.io/categories/%E7%B6%93%E6%96%87%E8%A9%A9%E6%AD%8C/</loc>
-    <lastmod>2019-08-05T14:21:20+08:00</lastmod>
+    <loc>https://ghgo.github.io/tags/%E7%B6%93%E6%96%87%E8%A9%A9%E6%AD%8C/</loc>
+    <lastmod>2019-08-01T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1367,14 +1367,14 @@
   
   <url>
     <loc>https://ghgo.github.io/tags/%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8/</loc>
-    <lastmod>2019-08-04T14:21:20+08:00</lastmod>
+    <lastmod>2019-08-11T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ghgo.github.io/tags/%E8%94%A1%E4%BB%81%E5%82%91/</loc>
-    <lastmod>2019-08-05T14:21:20+08:00</lastmod>
+    <lastmod>2019-08-11T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1388,21 +1388,21 @@
   
   <url>
     <loc>https://ghgo.github.io/tags/%E8%A9%A9%E7%AF%87/</loc>
-    <lastmod>2019-08-05T14:21:20+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ghgo.github.io/tags/%E8%AD%89%E9%81%93/</loc>
-    <lastmod>2019-08-04T14:21:20+08:00</lastmod>
+    <lastmod>2019-07-01T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ghgo.github.io/categories/%E8%AD%89%E9%81%93/</loc>
-    <lastmod>2019-08-04T14:21:20+08:00</lastmod>
+    <lastmod>2019-08-11T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ghgo.github.io/tags/%E8%AD%89%E9%81%93/</loc>
+    <lastmod>2019-08-11T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
